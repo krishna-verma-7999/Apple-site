@@ -5,3 +5,5 @@
 3. install tailwind => npm install -D tailwindcss postcss autoprefixer
 4. npx tailwindcss init -p
 5. update your tailwind.config.js
+
+6. npm i gsap @gsap/react
