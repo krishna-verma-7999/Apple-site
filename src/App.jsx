@@ -1,6 +1,7 @@
 import Highlights from "./components/Highlights"
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
+import Model from "./components/Model"
 
 const App = () => {
 
@@ -8,8 +9,8 @@ const App = () => {
     <main className="bg-black">
       <Navbar />
       <Hero />
-      {/* <Highlights /> */}
-
+      <Highlights />
+      <Model />
     </main>
   )
 }
